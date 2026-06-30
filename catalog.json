@@ -1,0 +1,9 @@
+[
+  {
+    "id": "caption-readability",
+    "name": "Caption readability",
+    "description": "Use when generating, styling, or revising spoken captions and subtitles on the timeline.",
+    "sha": "fbdfdaafa390",
+    "path": "Sources/PalmierSkillBundle/Resources/Skills/caption-readability/SKILL.md"
+  }
+]
