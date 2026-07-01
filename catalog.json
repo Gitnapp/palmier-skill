@@ -5,5 +5,12 @@
     "description": "Use when generating, styling, or revising spoken captions and subtitles on the timeline.",
     "sha": "fbdfdaafa390",
     "path": "Sources/PalmierSkillBundle/Resources/Skills/caption-readability/SKILL.md"
+  },
+  {
+    "id": "cui-editor",
+    "name": "Cui editor",
+    "description": "Use when turning spoken raw footage into a traceable rough cut, rewrite plan, readable captions, Palmier timeline edit, or CapCut/Jianying export.",
+    "sha": "8328bfa6512c",
+    "path": "Sources/PalmierSkillBundle/Resources/Skills/cui-editor/SKILL.md"
   }
 ]
